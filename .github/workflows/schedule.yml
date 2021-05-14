@@ -14,5 +14,5 @@ jobs:
         uses: cozy-ho/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: f6e897e96fb4845d20124fbc0ce510eb
+          GIST_ID: https://gist.github.com/cozy-ho/f6e897e96fb4845d20124fbc0ce510eb
           TIMEZONE: Asia/Seoul
